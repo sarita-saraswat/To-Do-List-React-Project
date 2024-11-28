@@ -9,7 +9,7 @@ Steps to Run the Application
 Clone the Repository
 
 
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/sarita-saraswat/To-Do-List-React-Project.git
 cd todo-app
 Install Dependencies
 
