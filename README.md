@@ -1,4 +1,4 @@
-# To-Do-List-React-Project
+# To-Do-List-React-App
 A simple and intuitive To-Do List application built with React. This application allows users to manage tasks by adding, editing, marking as completed, and deleting them.
 
 Features:
